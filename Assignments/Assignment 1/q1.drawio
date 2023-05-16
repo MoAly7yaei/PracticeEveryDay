@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net" modified="2023-05-16T11:30:15.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="BNexL32trqgTUOKWFtpz" version="21.2.9" type="device">
+  <diagram name="Page-1" id="PYuAoIJRF6AD9PPO1zQ9">
+    <mxGraphModel dx="2625" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="193" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-3" target="AGPMObT19J5G9M0f6eDQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-3" value="Insert the Steel Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="220" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-4" target="AGPMObT19J5G9M0f6eDQ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="453" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-4" value="&amp;nbsp;If&amp;nbsp;Rockwell hardness &amp;gt; 50 AND&lt;br&gt;Carbon content &amp;gt; 0.7 AND&lt;br&gt;Tensile strength &amp;gt; 5600 kg/cm2 " style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="370" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="653" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-8" value="Grade 10&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-9" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-11" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="253" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-12" target="AGPMObT19J5G9M0f6eDQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-12" target="AGPMObT19J5G9M0f6eDQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-12" value="&amp;nbsp;If&amp;nbsp;Rockwell hardness &amp;gt; 50 AND&lt;br&gt;Carbon content &amp;gt; 0.7 AND" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="650" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="653" y="765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-13" value="Grade 9&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-15" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-17" target="AGPMObT19J5G9M0f6eDQ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-17" target="AGPMObT19J5G9M0f6eDQ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-17" value="&amp;nbsp;If Carbon content &amp;gt; 0.7 AND&lt;br&gt;Tensile strength &amp;gt; 5600 kg/cm2 " style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="930" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="653" y="1045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-19" value="Grade 8&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="1015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-21" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-22" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="253" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-23" target="AGPMObT19J5G9M0f6eDQ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-23" target="AGPMObT19J5G9M0f6eDQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-23" value="&amp;nbsp;If&amp;nbsp;Rockwell hardness &amp;gt; 50 AND&lt;br&gt;Carbon content &amp;gt; 0.7 AND&lt;br&gt;Tensile strength &amp;gt; 5600 kg/cm2 " style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="1210" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-25" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="653" y="1325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-26" value="Grade 7&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-28" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-29" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423" y="1605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-30" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;ELSE&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="1490" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPMObT19J5G9M0f6eDQ-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="653" y="1605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-33" value="Not Satisfied" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="1575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPMObT19J5G9M0f6eDQ-34" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Stop&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="1720" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
