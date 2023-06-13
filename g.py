@@ -1,13 +1,12 @@
-lst = [1,[2,[3,[4]]]]
-counter = 0
+lst = [1,[2,3,4,5,[6,7,8,[9,10,[11,12,[13]]]]]]
 def read_array(lst):
-    global counter
+    counter = 0
     for i in lst:
         
         if type(i) == list:
             for j in i:
                 if type(j) == list:
-                    counter = counter + len(i)
+                    counter = counter + read_array(j)
                 
                 else:
                     counter = counter + 1
