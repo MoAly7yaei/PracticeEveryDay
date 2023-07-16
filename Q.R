@@ -16,5 +16,10 @@ stock_price[stock_price > 23]
 names(stock_price) = day
 stock_price['wed']
 stock_price
+stock_price[1]
 
 ###################################################
+
+names(stock_price[stock_price == max(stock_price)])
+
+
